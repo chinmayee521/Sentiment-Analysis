@@ -7,6 +7,6 @@ Accuracies of these models can be compared. (SVM- 81% accuracy)
 
 Dataset used: https://www.kaggle.com/vigneshwarsofficial/reviews
 
-Project is deployed on: Heroku
+Project is deployed on: Heroku \n
 Link for website: https://sentimentanalysis-webapp.herokuapp.com/
 
