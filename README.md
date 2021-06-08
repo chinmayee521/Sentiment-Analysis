@@ -1,4 +1,4 @@
-# Sentiment-Analysis-using-Django
+# Sentiment-Analysis
 
 The objective of this project is to apply sentiment analysis (NLP) on the restaurant reviews and assess if they can correctly identify the reviews as positive or negative. 
 Data preprocessing- Removing stopwords, Stemming
